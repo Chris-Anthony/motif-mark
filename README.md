@@ -21,6 +21,7 @@ Download motif-mark in the location of your fasta files.
 
 ## Commands
 
--f	--file	Name of fasta file
-
--m	--motif	Name of motif file
+| short | long    | description        |
+| ----- | ------- | ------------------ |
+| -f    | --file  | Name of fasta file |
+| -m    | --motif | Name of motif file |
